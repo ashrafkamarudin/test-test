@@ -1,0 +1,5 @@
+{
+  "name": "example/empty",
+  "description": "Empty composer project",
+  "require": {}
+}
